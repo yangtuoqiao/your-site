@@ -1,6 +1,6 @@
 // ===================== 修改成你自己仓库信息 =====================
 const GITHUB_USER = "yangtuoqiao";
-const GITHUB_REPO = "Ling-SoulArchive";
+const GITHUB_REPO = "your-site";
 const BRANCH = "main";
 // =================================================================
 
